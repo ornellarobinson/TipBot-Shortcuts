@@ -24,7 +24,8 @@
     {
       "ticker": "EURQ",
       "issuer": "rDk1xiArDMjDqnrR2yWypwQAKg4mKnQYvs",
-      "name": "EURQ (Quantoz)"
+      "name": "EURQ (Quantoz)",
+      "from": "2026-10-13T12:00:00Z"
     }
   ]
 }
